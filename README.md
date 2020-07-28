@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, My Name is Ahmad Muzakki 👋
 
 <!--
-**ahmadmzakki/ahmadmzakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ahmadmzakki/ahmadmzakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My Website : [AMBox.id](https://ambox.id)
+- My Personal Blog : [AhmadMzakki](https://ahmadmzakki.github.io)
+
+<hr>
+
+My Social Media
+
+- Github : [AhmadMzakki](https://github.com/ahmadmzakki)
+- Twitter : [AhmadMzakki](https://twitter.com/ahmadmzakki)
+- Youtube : [Just Play It](https://www.youtube.com/JustPlayIt)
