@@ -1,4 +1,4 @@
-### Hi there, My Name is Ahmad Muzakki 👋
+## Hi there, My Name is Ahmad Muzakki 👋
 
 <!--
 **ahmadmzakki/ahmadmzakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
