@@ -6,9 +6,7 @@
 Here are some ideas to get you started:
 
 - My Website : [AMBox.id](https://ambox.id)
-- My Personal Blog : [AhmadMzakki](https://ahmadmzakki.github.io)
-
-[![AhmadMzakki's Github Stats](https://github-readme-stats.vercel.app/api?username=ahmadmzakki)](https://github.com/anuraghazra/github-readme-stats)
+- My Personal Blog : [AhmadMzakki](https://ahmadmzakki.github.io) [![AhmadMzakki's Github Stats](https://github-readme-stats.vercel.app/api?username=ahmadmzakki)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
