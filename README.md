@@ -2,11 +2,18 @@
 
 <!--
 **ahmadmzakki/ahmadmzakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ahmadmzakki&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmadmzakki&layout=compact&theme=algolia" />
+</a>
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - My Website : [AMBox.id](https://ambox.id)
-- My Personal Blog : [AhmadMzakki](https://ahmadmzakki.github.io) [![AhmadMzakki's Github Stats](https://github-readme-stats.vercel.app/api?username=ahmadmzakki)](https://github.com/anuraghazra/github-readme-stats)
+- My Personal Blog : [AhmadMzakki](https://ahmadmzakki.github.io)
 
 <hr>
 
