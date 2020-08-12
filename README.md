@@ -7,7 +7,7 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmadmzakki&layout=compact&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amuzakki&layout=compact&theme=algolia" />
 </a>
 
 ### Here are some ideas to get you started:
