@@ -1,4 +1,6 @@
-# UX Engineer. <img src="https://github-readme-stats.vercel.app/api?username=equinusocio&show_icons=true&hide_border=true" alt="Stats" width="440" align="right">
+# Ahmad Muzakki. 
+
+<img src="https://github-readme-stats.vercel.app/api?username=amuzakki&show_icons=true&hide_border=true" alt="Stats" width="440" align="right">
 
 🌈 Design Systems maker.
 
