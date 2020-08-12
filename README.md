@@ -1,22 +1,4 @@
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
-<div class="container">
-<div class="row">
-  <div class="col-md-6 bg-warning order-2">
-    <div class="">First</div>
-  </div>
-  <div class="col-md-6 bg-success order-1">
-    <div class="">Second</div>
-  </div>
-</div>
-</div>
-
-</body>
-</html>
-
-
-
-<!--
 # Ahmad Muzakki. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=amuzakki&show_icons=true&hide_border=true&include_all_commits=true&theme=algolia" alt="Stats" width="440" align="right">
@@ -31,7 +13,7 @@
 
 ### My Social Media
 
-<!--<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amuzakki&layout=compact&theme=algolia" alt="Stats" align="right">
+<!--<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amuzakki&layout=compact&theme=algolia" alt="Stats" align="right">-->
 
 - Github : [AhmadMzakki](https://github.com/amuzakki)
 - Twitter : [AhmadMzakki](https://twitter.com/ahmadmzakki)
