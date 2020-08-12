@@ -1,12 +1,18 @@
 # Ahmad Muzakki. 
 
-<img src="https://github-readme-stats.vercel.app/api?username=amuzakki&show_icons=true&hide_border=true" alt="Stats" width="440" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=amuzakki&show_icons=true&hide_border=true&include_all_commits=true&theme=algolia" alt="Stats" width="440" align="right">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amuzakki&layout=compact&theme=algolia" alt="Stats" width="440" align="right"/>
 
-🌈 Design Systems maker.
+### Here are some ideas to get you started:
 
-💥Things destroyer.
+- My Website : [AMBox.id](https://ambox.id)
+- My Personal Blog : [AhmadMzakki](https://amuzakki.github.io)
 
-✍️ Author of [Native Elements](https://native-elements.dev), [XITY](https://github.com/equinusocio/xity-starter) and [Material Theme](https://github.com/material-theme/vsc-material-theme)
+<hr>
 
-📷 Spare time [photographer](https://unsplash.com/@equinusocio) and open source dev
+### My Social Media
+
+- Github : [AhmadMzakki](https://github.com/amuzakki)
+- Twitter : [AhmadMzakki](https://twitter.com/ahmadmzakki)
+- Youtube : [Just Play It](https://www.youtube.com/JustPlayIt)
 
