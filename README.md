@@ -6,16 +6,14 @@
 
 ### Here are some ideas to get you started:
 
-- My Website : [AMBox.id](https://ambox.id)
-- My Personal Blog : [AhmadMzakki](https://amuzakki.github.io)
+- My Team Website : [Kukode.in](https://kukode.in)
+- My Personal Blog : [amz](https://amz.my.id)
 
 <hr>
 
-### My Social Media
+### My Team Social Media
 
 <!--<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amuzakki&layout=compact&theme=algolia" alt="Stats" align="right">-->
 
-- Github : [AhmadMzakki](https://github.com/amuzakki)
 - Twitter : [AhmadMzakki](https://twitter.com/ahmadmzakki)
-- Youtube : [Just Play It](https://www.youtube.com/JustPlayIt)
-
+- Instagram : [@kukode.in](https://www.instagram.com/kukode.in)
