@@ -2,8 +2,8 @@
 # Ahmad Muzakki. 
 
 <a href="https://github.com/appleboy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amuzakki&show_icons=true&theme=algolia&count_private=true" alt="Appleboy's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amuzakki&theme=algolia&layout=compact" alt="Appleboy's github top languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amuzakki&show_icons=true&theme=algolia&count_private=true" alt="Appleboy's github stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amuzakki&theme=algolia&layout=compact" alt="Appleboy's github top languages" />
 </a>
 <br/>
 
