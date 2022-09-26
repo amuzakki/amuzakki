@@ -19,7 +19,4 @@
 
 ### My Team Social Media
 
-
-
-- Twitter : [AhmadMzakki](https://twitter.com/ahmadmzakki)
 - Instagram : [@kukode.in](https://www.instagram.com/kukode.in)
