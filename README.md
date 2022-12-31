@@ -12,7 +12,7 @@
 
 ### Here are some ideas to get you started:
 
-- My Team Website : [Kukode.in](https://kukode.in)
+- My Team Website : [Kukode Digital Agency](https://kukode.com)
 - My Personal Blog : [amz](https://amz.my.id)
 
 <hr>
